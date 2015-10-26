@@ -4,3 +4,6 @@ C:\Users\IVAN\Desktop\ApplicationFall2015\WordGame\bin\Debug\WordGame.pdb
 C:\Users\IVAN\Desktop\ApplicationFall2015\WordGame\obj\Debug\WordGame.exe
 C:\Users\IVAN\Desktop\ApplicationFall2015\WordGame\obj\Debug\WordGame.pdb
 C:\Users\IVAN\Desktop\ApplicationFall2015\WordGame\obj\Debug\WordGame.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\WordGame\bin\Debug\WordGame.exe.config
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\WordGame\obj\Debug\WordGame.exe
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\WordGame\obj\Debug\WordGame.pdb

@@ -1,0 +1,8 @@
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\DependenciesResolving\bin\Debug\DependenciesResolving.exe.config
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\DependenciesResolving\bin\Debug\DependenciesResolving.exe
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\DependenciesResolving\bin\Debug\DependenciesResolving.pdb
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\DependenciesResolving\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\DependenciesResolving\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\DependenciesResolving\obj\Debug\DependenciesResolving.csprojResolveAssemblyReference.cache
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\DependenciesResolving\obj\Debug\DependenciesResolving.exe
+C:\Users\IVAN\Desktop\New folder\ApplicationFall2015\DependenciesResolving\obj\Debug\DependenciesResolving.pdb

@@ -69,7 +69,11 @@ namespace Points
         static void Main(string[] args)
         {
             Console.Write("Starting point: ");
+<<<<<<< HEAD
             string startingPoint = Console.ReadLine();      
+=======
+            string startingPoint = Console.ReadLine();      //User enters the coordinates of the starting point in format (x, y)
+>>>>>>> f10519fed55fefa32e8099b5562e9de914720559
 
             string[] splittedStartingPoint = startingPoint.Split(new char[] { '(', ')', ',' }, StringSplitOptions.RemoveEmptyEntries);
             Console.Write("Enter the directions:");
